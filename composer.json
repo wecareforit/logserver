@@ -1,0 +1,27 @@
+{
+    "name": "logserver/connect",
+    "type": "project",
+     "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+    },
+        "require-dev": {
+
+    },"autoload": {
+    "psr-4": {
+      "logserver\\":"src/"
+    }
+  },
+      "version": "1.0.0" ,
+    "description": "Verinding maken met de Logserver.nl API op logmeldingen op te slaan",
+    "homepage": "https://www.logserver.nl",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jeff Timmer",
+            "email": "j.timmer@logserver",
+            "homepage": "http://www.logserver.nl",
+            "role": "Developer"
+        }
+    ]
+}
