@@ -1,8 +1,10 @@
 {
     "name": "logserver/connect",
-    "type": "library",
+      "type": "project",
+     "minimum-stability": "dev",
     "description": "Maak verbinding met de API van logserver",
     "keywords": ["log","logging"],
+    "prefer-stable": true,
     "homepage": "https://www.logserver.nl",
     "license": "MIT",
     "authors": [
