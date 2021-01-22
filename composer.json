@@ -5,6 +5,11 @@
     "description": "Maak verbinding met de API van logserver",
     "keywords": ["log","logging"],
     "prefer-stable": true,
+ "require": {
+    },
+        "require-dev": {
+
+    },
     "homepage": "https://www.logserver.nl",
     "license": "MIT",
     "authors": [
